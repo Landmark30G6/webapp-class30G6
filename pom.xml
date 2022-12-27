@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.215.170.248:8181/elvislandmarktech.net/repository/declarative-releases/</url>
+	      <url>http://10.0.1.182:8181/elvislandmarktech.net/repository/declarative-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.215.170.248:8181/elvislandmarktech.net/repository/declarative-snapshots/</url>
+	      <url>http://10.0.1.182:8181/elvislandmarktech.net/repository/declarative-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
